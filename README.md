@@ -1,6 +1,6 @@
 <h1 align="left">💫 Sobre mim :</h1>
 -👋 Oi eu sou o athos <br><br/>
-- 🌱Atualmente estou cursando Engenharia de Software **na Fiap**
+- 🌱Atualmente estou cursando Engenharia de Software na Fiap
 
 <h2 align="left">🌐Social:</h2>
 <p align="left">
