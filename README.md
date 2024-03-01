@@ -1,4 +1,4 @@
-<h3 align="center">👋 Oi eu sou o athos</h3>
+<h3 align="left">👋 Oi eu sou o athos</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athosalvesz" alt="athosalvesz" /></a> </p>
 
@@ -17,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athosalvesz&show_icons=true&locale=en" alt="athosalvesz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athosalvesz&" alt="athosalvesz" /></p>
+
