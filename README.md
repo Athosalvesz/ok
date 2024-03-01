@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,my name is Athos</h1>
+<h3 align="center">Hi 👋,my name is Athos</h3>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 🌱 I’m currently learning **in Fiap**
