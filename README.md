@@ -2,7 +2,7 @@
 -👋 Oi eu sou o athos <br><br/>
 - 🌱Atualmente estou cursando Engenharia de Software **na Fiap**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://br.linkedin.com/in/athos-rodrigues-alves-43b91b190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/athos-rodrigues-alves-43b91b190" height="30" width="40" /></a>
 </p>
