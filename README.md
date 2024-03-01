@@ -1,6 +1,5 @@
 <h1 align="left">💫 Sobre mim :</h1>
 
-<h3 align="left">👋 Oi eu sou o athos</h3>
 - 🌱Atualmente estou cursando Engenharia de Software **na Fiap**
 
 <h3 align="left">Connect with me:</h3>
